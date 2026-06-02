@@ -1,6 +1,4 @@
-# Miniprojeto_YasmineLisboaBernardo_AnalisedeDadoscomPythonT2
-
-## Mini-Projeto Avaliativo - Módulo 1 - Semana 07
+# Mini-Projeto Avaliativo - Módulo 1 - Semana 07
 Autora: Yasmine Lisboa Bernardo
 
 Turma: Análise de Dados com Python T2
@@ -9,7 +7,7 @@ Turma: Análise de Dados com Python T2
 Este projeto apresenta uma análise exploratória da base de dados de um varejo, desenvolvida como parte da **Mini-Projeto Avaliativo do Curso de Análise de Dados com Python**. O objetivo desse projeto foi realizar uma **Análise Exploratória de Dados (AED)** em uma base de varejo utilizando Python e Pandas para compreender, limpar e analisar os dados, além de preparar uma base para que sejam feitas análises mais avançadas ou para construção de um dashboard.
 
 
-### Objetivos:
+## Objetivos:
 
 - Carregar e explorar a base de dados utilizando Pandas.
 - Identificar problemas de qualidade dos dados, como valores nulos, inconsistências e possíveis duplicidades.
